@@ -9,6 +9,7 @@ vscode 安装vim插件
 normal两种方法
 1. esc
 2. ctrl + [
+改键： ctrl+[ => j + k 
 
 insert两种模式
 
