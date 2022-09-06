@@ -33,3 +33,29 @@ ge: 移动到一个单词的结尾
 ## 组合
 cw: 删除当前单词
 ea: 在当前单词结尾出添加
+
+
+
+```js
+function aa() {
+  console.log(11);
+  ffffffffffffffffffffffffffffo
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbbj
+  console.log(22);
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  console.log(33);
+  cccccccccccccccccccccccccccc
+  console.log(11);
+  dddddddddddddddddddddddddddd
+  console.log(11);
+  eeeeeeeeeeeeeeeeeeeeeeeeeeee
+  console.log(22232323232324999956789);
+  console.log(11);
+  ggggggggggggggggggggggggggg  
+  console.log(11);
+  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+  console.log(11);
+}
+
+```
